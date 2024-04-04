@@ -1,4 +1,11 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+    --accent-color: #FF0070;
+    --pink-color: #F1B2CE;
+    --pink2-color: #FF99C6;
+    --pink3-color: #F9E0EB;
+    --blue-color: #000028;
+    --purple-color: #DB00FF;
+
+    --background-image-dark: url("../images/cover-image-dark.png");
+    --background-image-light: url("../images/cover-image-light.png");
+}
